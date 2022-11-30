@@ -6,7 +6,7 @@ dentro de uma string, se existe ou não uma substring (tanto a string quanto a s
 
 - Trabalho 2: Composto por 2 requisitos. O primeiro requisito diz respeito a permitir a busca de uma substring em qualquer direção dentro de um caça-palavras. Já o segundo requisito exige que, ao encontrar a substring informada, o algoritmo deve marcar de alguma forma no caça-palavras impresso na tela.  
 
-- Trabalho 3: O caça-palavras, agora, não deve mais utilizar o input do usuário para procurar as palavras. Em vez disso, é necessário inserir um "dicionário" de palavras (um array de strings), e o programa deve procurar as palavras contidas neste dicionário no caça-palavras. Ao encontrar, o programa deve informar na tela com qual cor a palavra em questão está marcada.
+- Trabalho 3: O caça-palavras, agora, não deve mais utilizar o input do usuário para procurar as palavras. Em vez disso, é necessário inserir um "dicionário" de palavras (um array de strings) dentro do código-fonte, e o programa deve procurar as palavras contidas neste dicionário no caça-palavras. Ao encontrar, o programa deve informar na tela com qual cor a palavra em questão está marcada.
 
 ##
 
